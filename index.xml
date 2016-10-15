@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aliasgar Murtaza</title>
+    <link>aliasgar.me/</link>
+    <description>Recent content on Aliasgar Murtaza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2016 11:18:15 +0000</lastBuildDate>
+    <atom:link href="aliasgar.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>/aliasgar.me/post/hello-world/</link>
+      <pubDate>Fri, 14 Oct 2016 11:18:15 +0000</pubDate>
+      
+      <guid>/aliasgar.me/post/hello-world/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello&#34;&gt;hello&lt;/h1&gt;
+
+&lt;p&gt;hello world.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
